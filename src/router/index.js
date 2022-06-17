@@ -90,7 +90,7 @@ const routes = [
 ]
 
 const router = createRouter({
-	history: createWebHistory('/front/'),
+	history: createWebHistory('/spenxy-front/'),
 	routes
 })
 
